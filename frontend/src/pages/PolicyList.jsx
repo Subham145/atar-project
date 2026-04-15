@@ -53,7 +53,7 @@ import {
  * }} InsurancePolicy
  */
 
-const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:5001/api";
+const API_BASE = import.meta.env.VITE_API_BASE || "http:///api/auth/signup/api";
 
 export default function PolicyList() {
   const queryClient = useQueryClient();
