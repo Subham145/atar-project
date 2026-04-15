@@ -1,0 +1,9 @@
+{
+  "name": "Insurance Converter",
+  "short_name": "InsuranceHub",
+  "description": "Convert and manage insurance policy PDFs from a local dashboard.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1e3a8a"
+}
